@@ -1,0 +1,33 @@
+
+
+.pic{
+    background-image: url('images/Banner Image.png');
+    width: 1320px;
+    height: 600px;
+    margin: auto;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    background: linear-gradient(180deg,#070211 0%,);
+
+    
+}
+.div_1{
+    padding: 160px 300px 200px; T LR B;
+}
+
+
+.mydiv{
+    color: white;
+    text-align: center;
+    font-size: 32px;
+    padding-top: 160px;
+
+}
+
+.new{
+    color:white;
+    text-align: center;
+    font-size: 72px;
+    padding-bottom: 190px;
+   
+}
