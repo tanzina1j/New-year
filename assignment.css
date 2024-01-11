@@ -31,3 +31,25 @@
     padding-bottom: 190px;
    
 }
+
+.div_2{
+    h1{
+    color: red;
+    text-align: center;
+    font-family: inter;
+    font-size: 88px;
+    font-weight: 700;
+    }
+    p{
+        color: red;
+        text-align: center;
+        font-size: 24px;
+        font-weight: 500;
+    }
+    h2{
+        color: #070211;
+        text-align: center;
+        font-size: 48px;
+        font-weight: 700;
+    }
+}
